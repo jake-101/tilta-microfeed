@@ -152,7 +152,7 @@ export const ENCLOSURE_CATEGORIES_DICT = {
   },
   [ENCLOSURE_CATEGORIES.DOCUMENT]: {
     name: 'document',
-    fileTypes: ['pdf', 'docx', 'doc', 'xlsx', 'ppt', 'pptx', 'txt'],
+    fileTypes: ['zip','pdf', 'docx', 'doc', 'xlsx', 'ppt', 'pptx', 'txt'],
   },
   [ENCLOSURE_CATEGORIES.IMAGE]: {
     name: 'image',
